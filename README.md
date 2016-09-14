@@ -1,2 +1,2 @@
 # raspberry-car-ionic
-mobil insterface fo raspberry-car
+mobile insterface fo raspberry-car
