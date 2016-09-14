@@ -4,9 +4,11 @@
   <description>
         An Ionic Framework and Cordova project.
     </description>
-  <author email="you@example.com" href="http://example.com.com/">
-      Your Name Here
+  <author email="telminov@soft-way.biz" href="https://github.com/telminov">
+      Sergey Telminov
     </author>
+  <platform name="android"/>
+
   <content src="index.html"/>
   <access origin="*"/>
   <preference name="webviewbounce" value="false"/>
